@@ -50,4 +50,7 @@ Dosya ekinde mevcuttur.
 UCI Machine Learning Repository: *Iris Dataset* <br>
 Scikit-learn Documentation
 
-
+# Geliştirici
+**Hatice Polat**  
+🎓 Akdeniz Üniversitesi — Yönetim Bilişim Sistemleri  
+📎 [LinkedIn](https://linkedin.com/in/haticepolatt)
